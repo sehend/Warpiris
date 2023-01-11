@@ -1,0 +1,15 @@
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\bin\Debug\net6.0\ÖnemliAlgoritma.exe
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\bin\Debug\net6.0\ÖnemliAlgoritma.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\bin\Debug\net6.0\ÖnemliAlgoritma.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\bin\Debug\net6.0\ÖnemliAlgoritma.dll
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\bin\Debug\net6.0\ÖnemliAlgoritma.pdb
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\obj\Debug\net6.0\ÖnemliAlgoritma.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\obj\Debug\net6.0\ÖnemliAlgoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\obj\Debug\net6.0\ÖnemliAlgoritma.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\obj\Debug\net6.0\ÖnemliAlgoritma.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\obj\Debug\net6.0\ÖnemliAlgoritma.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\obj\Debug\net6.0\ÖnemliAlgoritma.dll
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\obj\Debug\net6.0\refint\ÖnemliAlgoritma.dll
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\obj\Debug\net6.0\ÖnemliAlgoritma.pdb
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\obj\Debug\net6.0\ÖnemliAlgoritma.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\ÖnemliAlgoritma\ÖnemliAlgoritma\obj\Debug\net6.0\ref\ÖnemliAlgoritma.dll
